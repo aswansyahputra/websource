@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1568035465743.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "1A91B307",
+    "lastKnownWriteTime" : 1568035495,
+    "last_content_update" : 1568035495996,
+    "path" : "~/Projects/github/websource/content/posts/2019-09-09-tulisan-pertama.Rmd",
+    "project_path" : "content/posts/2019-09-09-tulisan-pertama.Rmd",
+    "properties" : {
+        "cursorPosition" : "31,125",
+        "scrollLine" : "10"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
